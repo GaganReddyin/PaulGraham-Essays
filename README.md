@@ -30,7 +30,7 @@ To read the essays:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/paul-graham-essays.git
+   git clone https://github.com/GaganReddyin/paul-graham-essays.git
 
 
 Created and maintained with ❤️ by GaganReddy
