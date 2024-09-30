@@ -1,5 +1,4 @@
-# PaulGraham-Essays
-# Paul Graham Essays Collection
+# PaulGraham Essays
 
 This repository contains a curated collection of essays by Paul Graham, a renowned programmer, writer, and entrepreneur. These essays cover a wide range of topics including startups, technology, programming, and life philosophy.
 
@@ -7,9 +6,6 @@ This repository contains a curated collection of essays by Paul Graham, a renown
 - [Introduction](#introduction)
 - [Essays List](#essays-list)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Disclaimer](#disclaimer)
-- [License](#license)
 
 ## Introduction
 Paul Graham is the co-founder of Y Combinator and has written extensively on topics related to startups, programming, and technology. This repository aims to provide easy access to his insightful essays for readers and researchers.
