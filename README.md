@@ -3,7 +3,7 @@
 This repository contains a curated collection of essays by Paul Graham, a renowned programmer, writer, and entrepreneur. These essays cover a wide range of topics including startups, technology, programming, and life philosophy.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Essays List](#essays-list)
 - [Usage](#usage)  
 
